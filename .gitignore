@@ -1,0 +1,42 @@
+# Dependencies
+/node_modules
+
+# build file
+/build
+
+# log file
+/npm-debug.log
+
+# Variabile de mediu
+/.env
+
+# Fișierele TypeScript compilate
+**/*.js
+**/*.js.map
+
+# Fișierele de definiție TypeScript generate
+**/*.d.ts
+
+# Directorul de ieșire TypeScript
+dist/
+
+# Fișierele de cache TypeScript
+**/.tscache
+
+# Fișierele de log TypeScript
+tsc-debug.log
+
+# Dependențe
+node_modules/
+
+# Variabile de mediu
+.env
+
+# Fișiere specifice sistemului de operare
+.DS_Store
+Thumbs.db
+
+# Fișiere specifice editorului
+.idea/
+*.iml
+.vscode/
